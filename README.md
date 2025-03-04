@@ -3,3 +3,4 @@ This portfolio is a collection of personal data analytics projects in SQL using 
 
 Project Name | Description
 ------------ | -----------
+[Pitchfork Review Analysis](https://github.com/michaelycci/SQL_Portfolio/tree/main/Pitchfork Review Analysis) | TODO
