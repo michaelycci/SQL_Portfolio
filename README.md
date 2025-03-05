@@ -1,5 +1,5 @@
 # SQL_Portfolio
-This portfolio is a collection of personal data analytics projects in SQL using datasets from Kaggle.
+This portfolio is a collection of personal data analytics projects using SQL and datasets from Kaggle.
 
 Project Name | Description
 ------------ | -----------
